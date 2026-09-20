@@ -1,0 +1,9 @@
+{
+  "0": { "name": "THE DODGER", "taunt": "Catch me if you can.", "imageUrl": "https://raw.githubusercontent.com/manifoldecor/stress-brawler-boss-art/main/art/0-dodger.svg" },
+  "1": { "name": "IRONCLAD", "taunt": "Break my guard. I dare you.", "imageUrl": "https://raw.githubusercontent.com/manifoldecor/stress-brawler-boss-art/main/art/1-ironclad.svg" },
+  "2": { "name": "THE BERSERKER", "taunt": "You haven’t seen my worst yet.", "imageUrl": "https://raw.githubusercontent.com/manifoldecor/stress-brawler-boss-art/main/art/2-berserker.svg" },
+  "3": { "name": "PHANTOM", "taunt": "Too slow.", "imageUrl": "https://raw.githubusercontent.com/manifoldecor/stress-brawler-boss-art/main/art/3-phantom.svg" },
+  "4": { "name": "THE TWINS", "taunt": "Double the trouble.", "imageUrl": "https://raw.githubusercontent.com/manifoldecor/stress-brawler-boss-art/main/art/4-twins.svg" },
+  "5": { "name": "JUGGERNAUT", "taunt": "Patience is a weakness.", "imageUrl": "https://raw.githubusercontent.com/manifoldecor/stress-brawler-boss-art/main/art/5-juggernaut.svg" },
+  "6": { "name": "THE WEEKEND BOSS", "taunt": "Only the best survive Saturday.", "imageUrl": "https://raw.githubusercontent.com/manifoldecor/stress-brawler-boss-art/main/art/6-weekend-boss.svg" }
+}
