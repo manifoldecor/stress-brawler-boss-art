@@ -1,5 +1,5 @@
 {
-  "0": { "name": "THE DODGER", "taunt": "Catch me if you can.", "imageUrl": "https://raw.githubusercontent.com/manifoldecor/stress-brawler-boss-art/main/art/0-dodger.svg" },
+  "0": { "name": "THE DODGER", "taunt": "Catch me if you can.", "imageUrl": "https://raw.githubusercontent.com/manifoldecor/stress-brawler-boss-art/main/art/0-dodger.png" },
   "1": { "name": "IRONCLAD", "taunt": "Break my guard. I dare you.", "imageUrl": "https://raw.githubusercontent.com/manifoldecor/stress-brawler-boss-art/main/art/1-ironclad.svg" },
   "2": { "name": "THE BERSERKER", "taunt": "You haven’t seen my worst yet.", "imageUrl": "https://raw.githubusercontent.com/manifoldecor/stress-brawler-boss-art/main/art/2-berserker.svg" },
   "3": { "name": "PHANTOM", "taunt": "Too slow.", "imageUrl": "https://raw.githubusercontent.com/manifoldecor/stress-brawler-boss-art/main/art/3-phantom.svg" },
